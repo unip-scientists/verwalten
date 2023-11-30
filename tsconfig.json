@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "outDir": "./build",
+        "resolveJsonModule": true,
+        "strictNullChecks": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
